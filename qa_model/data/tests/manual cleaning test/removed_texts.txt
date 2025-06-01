@@ -1,0 +1,32 @@
+removed fully 
+
+109_1118 - just boilerplate
+109_1122 - just list of speakers
+111_1128 - lobby facts engagement metric change
+113_1140 - lobby facts engagement metric change
+118_1194 - event listing
+11_187 - just boilerplate
+11_190 - just boilerplate
+120_1224 - no mention of CBAM/anything EU
+- file_id: '131_1283' - lobby facts engagement metric change
+file_id: '133_1292' - just boilerplate
+file_id: '133_1295' - just boilerplate
+- file_id: '133_1296' - just boilerplate
+- file_id: '133_1298' - just boilerplate
+- file_id: '133_1299' - just boilerplate
+- file_id: '133_1302' - just boilerplate
+- file_id: '133_1303' - just boilerplate
+file_id: '13_209' - just boilerplate
+- file_id: '142_1373' - just boilerplate
+- file_id: '142_1374' - just boilerplate
+- file_id: '142_1381' - just boilerplate
+file_id: '143_1393' - boilerplate
+file_id: '14_226' - boilerplate
+
+
+START file_id: '150_1459'
+keywords to not forget
+- green energy certificate
+- resource shuffling
+- Best Available Technology
+- Decarbonization Digitalization Decentralization Deregulation

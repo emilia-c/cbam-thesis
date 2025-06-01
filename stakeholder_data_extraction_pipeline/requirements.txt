@@ -1,0 +1,26 @@
+all dependecies will be listed here, get them from conda 
+
+potentially what is needed for deepdoctection (pip install)
+
+
+DECTRON2 ON WINDOWS
+python 3.9 
+torch==1.13.1 
+torchvision==0.14.1 
+Cython==0.29.33 
+opencv-python==4.7.0.68 
+matplotlib==3.6.3 
+PyYAML==6.0 
+protobuf==4.21.12 
+ninja==1.11.1
+
+follow instructions to download detectron2: 
+    https://helloshreyas.com/how-to-install-detectron2-on-windows-machine
+
+DEEPDOCTECTION 
+deepdoctection 
+pdfplumber
+fasttext
+
+
+ddg = 7.5.1 (I think, latest as of 12.03.2025) 

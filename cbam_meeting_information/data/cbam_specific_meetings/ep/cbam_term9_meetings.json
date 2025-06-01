@@ -1,0 +1,1640 @@
+[
+    {
+        "MEP": "Pascal ARIMONT",
+        "Meeting ID": "0",
+        "Date": "28-06-2024",
+        "Meeting With": "Norsk Hydro",
+        "Reason": "Loopholes in CBAM",
+        "Org Match": "Norsk Hydro",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Tiziana BEGHIN",
+        "Meeting ID": "25",
+        "Date": "03-02-2022",
+        "Meeting With": "ArcelorMittal",
+        "Reason": "CBAM Regulation",
+        "Org Match": "ArcelorMittal",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Tiziana BEGHIN",
+        "Meeting ID": "28",
+        "Date": "26-01-2022",
+        "Meeting With": "European Aluminium",
+        "Reason": "CBAM Regulation",
+        "Org Match": "European Aluminium AISBL",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Erik BERGKVIST",
+        "Meeting ID": "136",
+        "Date": "15-02-2022",
+        "Meeting With": "Cementa",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Izaskun BILBAO BARANDICA",
+        "Meeting ID": "224",
+        "Date": "07-06-2022",
+        "Meeting With": "ArcelorMittal",
+        "Reason": "ETS and CBAM vote",
+        "Org Match": "ArcelorMittal",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "113",
+        "Date": "28-10-2022",
+        "Meeting With": "OXFAM INTERNATIONAL EU ADVOCACY OFFICE",
+        "Reason": "CBAM",
+        "Org Match": "FAM",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "132",
+        "Date": "27-09-2022",
+        "Meeting With": "POSCO",
+        "Reason": "CBAM",
+        "Org Match": "POSCO Co., Ltd",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "137",
+        "Date": "16-09-2022",
+        "Meeting With": "OXFAM INTERNATIONAL EU ADVOCACY OFFICE",
+        "Reason": "CBAM",
+        "Org Match": "FAM",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "154",
+        "Date": "05-04-2022",
+        "Meeting With": "CEMBUREAU - The European Cement Association",
+        "Reason": "CBAM",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "171",
+        "Date": "13-01-2022",
+        "Meeting With": "Electrolux",
+        "Reason": "CBAM",
+        "Org Match": "Electrolux Home Products Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "173",
+        "Date": "08-12-2021",
+        "Meeting With": "TIC Council",
+        "Reason": "testing and verifications mechanisms within CBAM",
+        "Org Match": "Atlantic Council of the United States, Inc",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "174",
+        "Date": "06-12-2021",
+        "Meeting With": "Cembureau",
+        "Reason": "CBAM",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "180",
+        "Date": "26-11-2021",
+        "Meeting With": "WWF Sweden Naturskyddsföreningen",
+        "Reason": "CBAM, Fit for 55, environmental policies in general",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "181",
+        "Date": "19-11-2021",
+        "Meeting With": "Eurometaux",
+        "Reason": "CBAM",
+        "Org Match": "EUROMETAUX",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Malin BJÖRK",
+        "Meeting ID": "184",
+        "Date": "25-10-2021",
+        "Meeting With": "WWF CAN-E Carbon Market Watch EEB E3G",
+        "Reason": "CBAM Carbon Border Adjustment Mechanism",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Gilles BOYER",
+        "Meeting ID": "250",
+        "Date": "16-12-2021",
+        "Meeting With": "Fleischman Hillard : Mickel Magnus",
+        "Reason": "EUGB, taxonomie, CSRD, CBAM (staff)",
+        "Org Match": "Fleishman-Hillard",
+        "Org Match Similarity": 94
+    },
+    {
+        "MEP": "Delara BURKHARDT",
+        "Meeting ID": "193",
+        "Date": "28-04-2022",
+        "Meeting With": "Industriegewerkschaft Bergbau, Chemie, Energie Verein Deutscher Zementwerke e.V.",
+        "Reason": "CBAM",
+        "Org Match": "Industriegewerkschaft Bergbau, Chemie, Energie",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Delara BURKHARDT",
+        "Meeting ID": "214",
+        "Date": "03-02-2022",
+        "Meeting With": "IG Metall",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Cristian-Silviu BUŞOI",
+        "Meeting ID": "79",
+        "Date": "23-11-2022",
+        "Meeting With": "GFG Alliance Eurofer",
+        "Reason": "CBAM / ETS impact on industries",
+        "Org Match": "GFG Alliance",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Pascal CANFIN",
+        "Meeting ID": "482",
+        "Date": "27-05-2020",
+        "Meeting With": "CEMBUREAU - The European Cement Association",
+        "Reason": "Green Deal/Green recovery/CBAM",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "36",
+        "Date": "30-11-2021",
+        "Meeting With": "CEMbureau",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "37",
+        "Date": "30-11-2021",
+        "Meeting With": "France Chimie",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "France Chimie",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "38",
+        "Date": "29-11-2021",
+        "Meeting With": "CANEurope",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "39",
+        "Date": "26-11-2021",
+        "Meeting With": "European Rail Supply Industry Association (UNIFE)",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "UNIFE",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "41",
+        "Date": "24-11-2021",
+        "Meeting With": "Climate Strategy 2050 Institute",
+        "Reason": "CBAM",
+        "Org Match": "Climate Strategy",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "42",
+        "Date": "24-11-2021",
+        "Meeting With": "France Industrie",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "France Industrie",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Damien CARÊME",
+        "Meeting ID": "43",
+        "Date": "24-11-2021",
+        "Meeting With": "Carbon Market Watch",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Anna CAVAZZINI",
+        "Meeting ID": "158",
+        "Date": "02-02-2022",
+        "Meeting With": "WV Stahl 75755621888-61",
+        "Reason": "CBAM",
+        "Org Match": "75755621888-61",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Catherine CHABAUD",
+        "Meeting ID": "68",
+        "Date": "07-12-2021",
+        "Meeting With": "AFEP",
+        "Reason": "Fit for 55 (CBAM et ETS)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "20",
+        "Date": "31-01-2024",
+        "Meeting With": "Tony Blair Institute for Global Change",
+        "Reason": "CBAM",
+        "Org Match": "Tony Blair Institute for Global Change",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "25",
+        "Date": "22-01-2024",
+        "Meeting With": "Norsk Hydro",
+        "Reason": "CBAM",
+        "Org Match": "Norsk Hydro",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "60",
+        "Date": "07-06-2023",
+        "Meeting With": "Climate Leadership Council",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "91",
+        "Date": "30-03-2023",
+        "Meeting With": "Dow Europe GmbH",
+        "Reason": "Hydrogen and CBAM",
+        "Org Match": "Dow Europe GmbH",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "94",
+        "Date": "29-03-2023",
+        "Meeting With": "Carbon removals",
+        "Reason": "ETS and CBAM",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "114",
+        "Date": "31-01-2023",
+        "Meeting With": "TPN",
+        "Reason": "Roundtable CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "123",
+        "Date": "16-01-2023",
+        "Meeting With": "TNO",
+        "Reason": "CBAM",
+        "Org Match": "Agencija za komercijalnu djelatnost proizvodno, uslužno i trgovačko d.o.o.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "126",
+        "Date": "11-01-2023",
+        "Meeting With": "CSIS",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "152",
+        "Date": "07-07-2022",
+        "Meeting With": "Stichting I-REC",
+        "Reason": "CBAM",
+        "Org Match": "Stichting I-REC",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "154",
+        "Date": "06-07-2022",
+        "Meeting With": "American Chamber of Commerce to the European Union",
+        "Reason": "CBAM",
+        "Org Match": "American Chamber of Commerce to the European Union",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "158",
+        "Date": "05-07-2022",
+        "Meeting With": "Schneider Electric",
+        "Reason": "CBAM",
+        "Org Match": "Schneider Electric",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "160",
+        "Date": "29-06-2022",
+        "Meeting With": "Carbon Minds",
+        "Reason": "CBAM",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "162",
+        "Date": "16-06-2022",
+        "Meeting With": "Natuur&Milieu",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "166",
+        "Date": "04-05-2022",
+        "Meeting With": "METINVEST Tonnaer Public Affairs",
+        "Reason": "CBAM",
+        "Org Match": "METINVEST",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "170",
+        "Date": "05-04-2022",
+        "Meeting With": "The European Steel Association",
+        "Reason": "CBAM",
+        "Org Match": "E+Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "171",
+        "Date": "05-04-2022",
+        "Meeting With": "PGE Polska Grupa Energetyczna SA",
+        "Reason": "CBAM",
+        "Org Match": "PGE Polska Grupa Energetyczna SA",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "172",
+        "Date": "01-04-2022",
+        "Meeting With": "Carbon Market Watch Climate Action Network Europe World Wide Fund for Nature - Netherlands",
+        "Reason": "CBAM & ETS2",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "173",
+        "Date": "30-03-2022",
+        "Meeting With": "Korea Business Association Europe",
+        "Reason": "CBAM",
+        "Org Match": "Korea Business Association Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "174",
+        "Date": "30-03-2022",
+        "Meeting With": "Corbion",
+        "Reason": "CBAM",
+        "Org Match": "Corbion",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "175",
+        "Date": "22-03-2022",
+        "Meeting With": "Wirtschaftsrat der CDU e.V.",
+        "Reason": "CBAM",
+        "Org Match": "Wirtschaftsrat der CDU e.V.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "176",
+        "Date": "17-03-2022",
+        "Meeting With": "European Chemical Industry Council",
+        "Reason": "CBAM",
+        "Org Match": "European Chemical Industry Council",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "177",
+        "Date": "10-03-2022",
+        "Meeting With": "Tesla Motors Netherlands B.V.",
+        "Reason": "CBAM",
+        "Org Match": "Tesla Motors Netherlands B.V.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "178",
+        "Date": "08-03-2022",
+        "Meeting With": "LyondellBasell Industries N.V.",
+        "Reason": "CBAM",
+        "Org Match": "LyondellBasell Industries N.V.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "179",
+        "Date": "15-02-2022",
+        "Meeting With": "European Energy Exchange AG",
+        "Reason": "ETS/ CBAM",
+        "Org Match": "European Energy Exchange AG",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "180",
+        "Date": "08-02-2022",
+        "Meeting With": "VNO-NCW - MKB-Nederland",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "181",
+        "Date": "25-01-2022",
+        "Meeting With": "Cefic",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "182",
+        "Date": "24-01-2022",
+        "Meeting With": "CEMBUREAU",
+        "Reason": "CBAM",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "183",
+        "Date": "24-01-2022",
+        "Meeting With": "Eurometax",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "184",
+        "Date": "21-01-2022",
+        "Meeting With": "CEMinEUR",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "186",
+        "Date": "07-01-2022",
+        "Meeting With": "IG Metall",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "192",
+        "Date": "02-12-2021",
+        "Meeting With": "International Association of Oil & Gas Producers AFEP ExxonMobil Petroleum & Chemical BVBA Euromines Copa-Cogeca University of Cambridge Institute for Sustainability Leadership (CISL) AGPB/FNSEA Hydrogen Europe Eurelectric European Express Association IG Metall Denso TIC Council",
+        "Reason": "Stakeholders Event CBAM",
+        "Org Match": "Cambridge Institute for Sustainability Leadership",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "195",
+        "Date": "28-10-2021",
+        "Meeting With": "Cembureau YARA Mission of Ukraine to the European Union Eurofer Eurometax Industriall DOW WindEurope OCI Meststoffen Nederland CAN Europe E3G IEEP Lanztech Kellen Europe",
+        "Reason": "Stakeholders Event on CBAM",
+        "Org Match": "Meststoffen Nederland",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "196",
+        "Date": "28-10-2021",
+        "Meeting With": "European Automobile Manufacturers’ Association Fuels Europe Heidelberg cement Ukrainian Business and Trade Association ArcelorMittal european-aluminium.eu NLMK European Chemical Industry Council France Industrie National Grid Ventures Carbon Market Watch’s WWF EPO EEB Fertilizers Europe",
+        "Reason": "Stakeholders Event on CBAM",
+        "Org Match": "Carbon Market Watch",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "197",
+        "Date": "27-10-2021",
+        "Meeting With": "Confederation of Finnish Industries - EK Cem’in’EU APPLiA Europe Norsk Hydro LKAB oxfam Europe Jacques Delors Agora Energiewende German Watch AEGIS Europe Honda Motor Europe Ecocem Hydrogen Europe CPME ERCST",
+        "Reason": "Stakeholders Event on CBAM",
+        "Org Match": "AEGIS Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "202",
+        "Date": "06-10-2021",
+        "Meeting With": "E3G CMW CAN-E EEB WWF",
+        "Reason": "collective NGO-call on CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "204",
+        "Date": "04-10-2021",
+        "Meeting With": "Agora Energiewend",
+        "Reason": "Commission’s CBAM proposal",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "229",
+        "Date": "18-09-2020",
+        "Meeting With": "ClientEarth",
+        "Reason": "CBAM",
+        "Org Match": "ClientEarth AISBL",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mohammed CHAHIM",
+        "Meeting ID": "232",
+        "Date": "02-09-2020",
+        "Meeting With": "VNMI",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Ciarán CUFFE",
+        "Meeting ID": "227",
+        "Date": "01-03-2022",
+        "Meeting With": "Cement Manufacturers Ireland",
+        "Reason": "CBAM & ETS",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "23",
+        "Date": "30-06-2023",
+        "Meeting With": "Fridtjof Nansens Institutt",
+        "Reason": "ETS / CBAM",
+        "Org Match": "Fridtjof Nansen Institute",
+        "Org Match Similarity": 96
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "109",
+        "Date": "05-05-2022",
+        "Meeting With": "Cem'In'Eu",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "121",
+        "Date": "16-02-2022",
+        "Meeting With": "Hydro",
+        "Reason": "ETS & CBAM",
+        "Org Match": "ANDRITZ HYDRO GmbH",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "141",
+        "Date": "26-11-2021",
+        "Meeting With": "Fridtjof Nansen Institute",
+        "Reason": "CBAM",
+        "Org Match": "Fridtjof Nansen Institute",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "142",
+        "Date": "24-11-2021",
+        "Meeting With": "Cem’in’EU",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "150",
+        "Date": "12-10-2021",
+        "Meeting With": "LKAB SSAB",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "182",
+        "Date": "12-05-2021",
+        "Meeting With": "#SustainablePublicAffairs",
+        "Reason": "ETS/CBAM",
+        "Org Match": "#SustainablePublicAffairs",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Bas EICKHOUT",
+        "Meeting ID": "197",
+        "Date": "18-02-2021",
+        "Meeting With": "CCL - Dutch branch",
+        "Reason": "carbon tax / CBAM /",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Niels FUGLSANG",
+        "Meeting ID": "226",
+        "Date": "24-01-2022",
+        "Meeting With": "Aalborg Portland",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Jens GEIER",
+        "Meeting ID": "252",
+        "Date": "28-04-2022",
+        "Meeting With": "Industriegewerkschaft Bergbau, Chemie, Energie Verein Deutscher Zementwerke e.V.",
+        "Reason": "ETS, CBAM",
+        "Org Match": "Industriegewerkschaft Bergbau, Chemie, Energie",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Jens GEIER",
+        "Meeting ID": "290",
+        "Date": "03-03-2022",
+        "Meeting With": "Verband der Chemischen Industrie eV",
+        "Reason": "CBAM & Fit for 55",
+        "Org Match": "Verband der Chemischen Industrie e.V.",
+        "Org Match Similarity": 97
+    },
+    {
+        "MEP": "Jens GEIER",
+        "Meeting ID": "303",
+        "Date": "26-01-2022",
+        "Meeting With": "WV Stahl",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Jens GEIER",
+        "Meeting ID": "306",
+        "Date": "24-11-2021",
+        "Meeting With": "European Steel Industry (EUROFER)",
+        "Reason": "CBAM, ETS, RED, EED",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "José GUSMÃO",
+        "Meeting ID": "86",
+        "Date": "26-01-2022",
+        "Meeting With": "APPLiA",
+        "Reason": "CBAM",
+        "Org Match": "APPLiA (Home Appliance Europe)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "0",
+        "Date": "17-11-2020",
+        "Meeting With": "Carbon Market Watch WWF CAN EUROPE",
+        "Reason": "CBAM",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "1",
+        "Date": "23-09-2020",
+        "Meeting With": "CEFIC",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "2",
+        "Date": "23-09-2020",
+        "Meeting With": "BEUC",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "3",
+        "Date": "21-09-2020",
+        "Meeting With": "CEMBUREAU",
+        "Reason": "CBAM",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "4",
+        "Date": "18-09-2020",
+        "Meeting With": "Industriall",
+        "Reason": "CBAM",
+        "Org Match": "Network for Industrially Co-ordinated Sustainable Land Management in Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "5",
+        "Date": "14-09-2020",
+        "Meeting With": "Confederation Européenne des Syndicats",
+        "Reason": "CBAM",
+        "Org Match": "ACTION EUROPE",
+        "Org Match Similarity": 92
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "6",
+        "Date": "02-09-2020",
+        "Meeting With": "Comité économique et social EUROFER INDUSTRIAL CEFIC",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Yannick JADOT",
+        "Meeting ID": "7",
+        "Date": "20-05-2020",
+        "Meeting With": "Sandbag",
+        "Reason": "CBAM",
+        "Org Match": "Sandbag Climate Campaign",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "30",
+        "Date": "24-02-2021",
+        "Meeting With": "Carbon Market Watch",
+        "Reason": "CBAM",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "31",
+        "Date": "24-11-2020",
+        "Meeting With": "Business Europe",
+        "Reason": "Business Europe Apero Webinar CBAM",
+        "Org Match": "BUSINESSEUROPE",
+        "Org Match Similarity": 93
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "32",
+        "Date": "18-11-2020",
+        "Meeting With": "Sandbag",
+        "Reason": "CBAM",
+        "Org Match": "Sandbag Climate Campaign",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "33",
+        "Date": "10-11-2020",
+        "Meeting With": "Busines and Science Poland",
+        "Reason": "BSP Insight - CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "34",
+        "Date": "06-11-2020",
+        "Meeting With": "Citizens Climate Europe",
+        "Reason": "CBAM",
+        "Org Match": "E+Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Adam JARUBAS",
+        "Meeting ID": "35",
+        "Date": "29-10-2020",
+        "Meeting With": "Konfederacja Lewiatan",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "74",
+        "Date": "09-02-2022",
+        "Meeting With": "US Trade Representative's office",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "75",
+        "Date": "08-02-2022",
+        "Meeting With": "EFTA Parliamentry Committee",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "76",
+        "Date": "07-02-2022",
+        "Meeting With": "Wallenberg Foundations",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "77",
+        "Date": "01-02-2022",
+        "Meeting With": "European Round Table for Industry",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": "European Round Table for Industry",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "78",
+        "Date": "15-12-2021",
+        "Meeting With": "Ukrainian Business and Trade Association UBTA",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": "AINIA",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "79",
+        "Date": "08-12-2021",
+        "Meeting With": "Volvo Cars",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "80",
+        "Date": "02-12-2021",
+        "Meeting With": "Norska representationen till EU",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "82",
+        "Date": "17-11-2021",
+        "Meeting With": "H2 Green Steel",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "84",
+        "Date": "10-11-2021",
+        "Meeting With": "Jernkontoret",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": "Jernkontoret",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "85",
+        "Date": "09-11-2021",
+        "Meeting With": "Kommerskollegium",
+        "Reason": "Exchange of views CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "104",
+        "Date": "13-04-2021",
+        "Meeting With": "Nordiska rådet",
+        "Reason": "Exchange of views cbam",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "116",
+        "Date": "01-10-2020",
+        "Meeting With": "The European Environmental Bureau EEB",
+        "Reason": "Exchange of views on CBAM",
+        "Org Match": "E+Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "117",
+        "Date": "23-09-2020",
+        "Meeting With": "Svenskt Näringsliv - Confederation of Swedish Enterprise",
+        "Reason": "Exchange of views on CBAM",
+        "Org Match": "Confederation of Swedish Enterprise",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Karin KARLSBRO",
+        "Meeting ID": "118",
+        "Date": "17-09-2020",
+        "Meeting With": "Kommerskollegium- National Board of Trade Sweden",
+        "Reason": "Exchange of views on CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Billy KELLEHER",
+        "Meeting ID": "7",
+        "Date": "24-10-2023",
+        "Meeting With": "Cement Manufacturers Ireland",
+        "Reason": "CBAM, decarbonising cement and concrete industries",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Izabela-Helena KLOC",
+        "Meeting ID": "2",
+        "Date": "24-11-2021",
+        "Meeting With": "PGE S.A.",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Izabela-Helena KLOC",
+        "Meeting ID": "3",
+        "Date": "18-11-2021",
+        "Meeting With": "Cefic",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Izabela-Helena KLOC",
+        "Meeting ID": "4",
+        "Date": "18-11-2021",
+        "Meeting With": "Euromines",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Izabela-Helena KLOC",
+        "Meeting ID": "5",
+        "Date": "18-11-2021",
+        "Meeting With": "European Aluminium",
+        "Reason": "CBAM",
+        "Org Match": "European Aluminium AISBL",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Izabela-Helena KLOC",
+        "Meeting ID": "6",
+        "Date": "16-11-2021",
+        "Meeting With": "APPLiA Europe",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Petros KOKKALIS",
+        "Meeting ID": "44",
+        "Date": "19-10-2021",
+        "Meeting With": "E3G",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Petros KOKKALIS",
+        "Meeting ID": "45",
+        "Date": "19-10-2021",
+        "Meeting With": "WWF EPO",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Petros KOKKALIS",
+        "Meeting ID": "46",
+        "Date": "19-10-2021",
+        "Meeting With": "CAN Europe",
+        "Reason": "CBAM",
+        "Org Match": "The American European Community Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Petros KOKKALIS",
+        "Meeting ID": "47",
+        "Date": "19-10-2021",
+        "Meeting With": "Carbon Market Watch",
+        "Reason": "CBAM",
+        "Org Match": "CARBON",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Danilo Oscar LANCINI",
+        "Meeting ID": "17",
+        "Date": "01-12-2021",
+        "Meeting With": "Edison",
+        "Reason": "EU ETS / CBAM",
+        "Org Match": "Edison Spa",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Danilo Oscar LANCINI",
+        "Meeting ID": "19",
+        "Date": "30-11-2021",
+        "Meeting With": "Hydrogen Europe",
+        "Reason": "EU ETS / CBAM",
+        "Org Match": "HYDROGEN EUROPE RESEARCH",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Danilo Oscar LANCINI",
+        "Meeting ID": "21",
+        "Date": "23-11-2021",
+        "Meeting With": "ExxonMobil Nove",
+        "Reason": "CBAM",
+        "Org Match": "NOVE",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "123",
+        "Date": "24-02-2022",
+        "Meeting With": "VNO-NCW",
+        "Reason": "CBAM - APA",
+        "Org Match": "Vereniging VNO-NCW",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "131",
+        "Date": "02-02-2022",
+        "Meeting With": "YARA",
+        "Reason": "CBAM",
+        "Org Match": "YARA  BELGIUM S.A.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "132",
+        "Date": "02-02-2022",
+        "Meeting With": "OCI",
+        "Reason": "CBAM/ETS",
+        "Org Match": "#NotInOurGame Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "134",
+        "Date": "01-02-2022",
+        "Meeting With": "CEMBUREAU",
+        "Reason": "CBAM - APA",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "135",
+        "Date": "27-01-2022",
+        "Meeting With": "TATA",
+        "Reason": "CBAM/ETS - APA",
+        "Org Match": "Asociación Estatal De Empresas Operadoras Portuarias",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "155",
+        "Date": "16-11-2021",
+        "Meeting With": "APPLiA",
+        "Reason": "Green Deal - CBAM - APA",
+        "Org Match": "APPLiA (Home Appliance Europe)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "123",
+        "Date": "24-02-2022",
+        "Meeting With": "VNO-NCW",
+        "Reason": "CBAM - APA",
+        "Org Match": "Vereniging VNO-NCW",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "131",
+        "Date": "02-02-2022",
+        "Meeting With": "YARA",
+        "Reason": "CBAM",
+        "Org Match": "YARA  BELGIUM S.A.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "132",
+        "Date": "02-02-2022",
+        "Meeting With": "OCI",
+        "Reason": "CBAM/ETS",
+        "Org Match": "#NotInOurGame Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "134",
+        "Date": "01-02-2022",
+        "Meeting With": "CEMBUREAU",
+        "Reason": "CBAM - APA",
+        "Org Match": "CEMBUREAU - The European Cement Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "135",
+        "Date": "27-01-2022",
+        "Meeting With": "TATA",
+        "Reason": "CBAM/ETS - APA",
+        "Org Match": "Asociación Estatal De Empresas Operadoras Portuarias",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Esther DE LANGE",
+        "Meeting ID": "155",
+        "Date": "16-11-2021",
+        "Meeting With": "APPLiA",
+        "Reason": "Green Deal - CBAM - APA",
+        "Org Match": "APPLiA (Home Appliance Europe)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Peter LIESE",
+        "Meeting ID": "0",
+        "Date": "07-06-2024",
+        "Meeting With": "BBVA",
+        "Reason": "ETS, CBAM, CRCF",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Peter LIESE",
+        "Meeting ID": "41",
+        "Date": "09-02-2024",
+        "Meeting With": "BASF SE",
+        "Reason": "Austausch ETS, CCU, CBAM",
+        "Org Match": "BASF SE",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Peter LIESE",
+        "Meeting ID": "166",
+        "Date": "05-10-2022",
+        "Meeting With": "Deutsch-Türkische Industrie und Handelskammer",
+        "Reason": "ETS & CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Peter LIESE",
+        "Meeting ID": "175",
+        "Date": "05-09-2022",
+        "Meeting With": "Association Française des Entreprises Privées / French Association of Large Companies",
+        "Reason": "ETS and CBAM",
+        "Org Match": "Association Française des Entreprises Privées / French Association of Large Companies",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Peter LIESE",
+        "Meeting ID": "326",
+        "Date": "23-09-2021",
+        "Meeting With": "HeidelbergCement AG",
+        "Reason": "ETS & CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Iskra MIHAYLOVA",
+        "Meeting ID": "13",
+        "Date": "01-03-2022",
+        "Meeting With": "EUROFER",
+        "Reason": "два проекта на ЕК: актуализация на Европейската система за търговия с емисии (EU ETS) и Механизъм за въглеродна корекция на границите (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "201",
+        "Date": "10-06-2022",
+        "Meeting With": "RECS Energy Certificate Association The I-REC Standard Foundation",
+        "Reason": "guarantees of origin (RED, CBAM) - staff level",
+        "Org Match": "RECS Energy Certificate Association",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "284",
+        "Date": "13-12-2021",
+        "Meeting With": "Eurofer",
+        "Reason": "ETS, CBAM, RED (staff level)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "334",
+        "Date": "21-10-2021",
+        "Meeting With": "Yara",
+        "Reason": "Fit for 55, CBAM, RED",
+        "Org Match": "YARA  BELGIUM S.A.",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "365",
+        "Date": "28-06-2021",
+        "Meeting With": "Technology Industries of Finland",
+        "Reason": "Critical Raw Materials and CBAM",
+        "Org Match": "Technology Industries of Finland (Teknologiateollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "396",
+        "Date": "22-03-2021",
+        "Meeting With": "Technology Finland",
+        "Reason": "fit for 55, taxonomy, CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Ville NIINISTÖ",
+        "Meeting ID": "428",
+        "Date": "19-11-2020",
+        "Meeting With": "Metsäteollisuus ry",
+        "Reason": "Forest industries (CBAM)",
+        "Org Match": "Finnish Forest Industries Federation (Metsäteollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mauri PEKKARINEN",
+        "Meeting ID": "346",
+        "Date": "03-03-2021",
+        "Meeting With": "Teknologiateollisuus",
+        "Reason": "Discussion on Raw Material Alliance and CBAM",
+        "Org Match": "Technology Industries of Finland (Teknologiateollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Mauri PEKKARINEN",
+        "Meeting ID": "365",
+        "Date": "16-11-2020",
+        "Meeting With": "Finnish Forest Industries",
+        "Reason": "Discussion on CBAM",
+        "Org Match": "Finnish Forest Industries Federation (Metsäteollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Sirpa PIETIKÄINEN",
+        "Meeting ID": "221",
+        "Date": "23-06-2022",
+        "Meeting With": "Chemical Industry Federation of Finland (Kemianteollisuus ry)",
+        "Reason": "Fit for 55, EED, RED III, CBAM",
+        "Org Match": "Chemical Industry Federation of Finland (Kemianteollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Sirpa PIETIKÄINEN",
+        "Meeting ID": "316",
+        "Date": "17-02-2021",
+        "Meeting With": "Technology Industries of Finland (Teknologiateollisuus ry) 39705603497-38",
+        "Reason": "Green Deal, EU Recovery, CBAM, EU Taxonomy",
+        "Org Match": "Technology Industries of Finland (Teknologiateollisuus ry)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Susana SOLÍS PÉREZ",
+        "Meeting ID": "139",
+        "Date": "04-02-2022",
+        "Meeting With": "ArcelorMittal",
+        "Reason": "CBAM, ETS and RED legislative proposals with the Steel secto",
+        "Org Match": "ArcelorMittal",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Nicolae ŞTEFĂNUȚĂ",
+        "Meeting ID": "13",
+        "Date": "02-02-2022",
+        "Meeting With": "Liberty Galati representatives- set up through the Head of EU Government Relations at GFG Alliance",
+        "Reason": "CBAM Meeting",
+        "Org Match": "GFG Alliance",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Tomas TOBÉ",
+        "Meeting ID": "49",
+        "Date": "08-02-2022",
+        "Meeting With": "SSAB Kreab",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Tomas TOBÉ",
+        "Meeting ID": "51",
+        "Date": "01-02-2022",
+        "Meeting With": "Jernkontoret",
+        "Reason": "CBAM",
+        "Org Match": "Jernkontoret",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Tomas TOBÉ",
+        "Meeting ID": "52",
+        "Date": "30-11-2021",
+        "Meeting With": "Investor Kreab Electrolux",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Nils TORVALDS",
+        "Meeting ID": "117",
+        "Date": "09-10-2023",
+        "Meeting With": "ALTERMIND",
+        "Reason": "RED III, CBAM, EU ETS",
+        "Org Match": "ALTER",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Nils TORVALDS",
+        "Meeting ID": "341",
+        "Date": "12-05-2022",
+        "Meeting With": "UK representation to the EP",
+        "Reason": "CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Nils TORVALDS",
+        "Meeting ID": "382",
+        "Date": "07-02-2022",
+        "Meeting With": "Norsk Hydro",
+        "Reason": "Zero aluminium and CBAM",
+        "Org Match": "Norsk Hydro",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Johan VAN OVERTVELDT",
+        "Meeting ID": "49",
+        "Date": "26-04-2022",
+        "Meeting With": "global investment leaders",
+        "Reason": "Green deal, CBAM & situation in Ukraine",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Tiemo WÖLKEN",
+        "Meeting ID": "453",
+        "Date": "21-07-2022",
+        "Meeting With": "Steelwind Nordenham",
+        "Reason": "ETS und CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Tiemo WÖLKEN",
+        "Meeting ID": "470",
+        "Date": "21-06-2022",
+        "Meeting With": "Arcelor Mittal Bremen",
+        "Reason": "ETS und CBAM",
+        "Org Match": "ArcelorMittal",
+        "Org Match Similarity": 92
+    },
+    {
+        "MEP": "Tiemo WÖLKEN",
+        "Meeting ID": "472",
+        "Date": "16-06-2022",
+        "Meeting With": "Georgsmarienhütte Holding",
+        "Reason": "ETS und CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Nicola DANTI",
+        "Meeting ID": "120",
+        "Date": "30-05-2022",
+        "Meeting With": "Confederazione Generale dell'Industria Italiana",
+        "Reason": "ETS, CBAM, CO2 standars",
+        "Org Match": "Confederazione Generale dell'Industria Italiana",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Marc ANGEL",
+        "Meeting ID": "147",
+        "Date": "31-05-2022",
+        "Meeting With": "FEDIL - The Voice of Luxembourg's Industry",
+        "Reason": "EU ETS and CBAM",
+        "Org Match": "FEDIL - The Voice of Luxembourg's Industry",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Salvatore DE MEO",
+        "Meeting ID": "156",
+        "Date": "26-01-2022",
+        "Meeting With": "APPLiA (Home Appliance Europe)",
+        "Reason": "CBAM",
+        "Org Match": "APPLiA (Home Appliance Europe)",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Marcos ROS SEMPERE",
+        "Meeting ID": "23",
+        "Date": "08-02-2022",
+        "Meeting With": "Oficemen",
+        "Reason": "New ETSII and CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Marina MESURE",
+        "Meeting ID": "92",
+        "Date": "21-09-2022",
+        "Meeting With": "Syndicats CGT du ciment",
+        "Reason": "Industrie du ciment et CBAM",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "52",
+        "Date": "08-12-2022",
+        "Meeting With": "VW Stahl",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "53",
+        "Date": "02-12-2022",
+        "Meeting With": "Thyssenkrupp Gerlach",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "SSE",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "56",
+        "Date": "21-11-2022",
+        "Meeting With": "Saarschmiede / Stahl Holding Saar",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "57",
+        "Date": "21-11-2022",
+        "Meeting With": "EPIA SolarPower Europe",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "EPIA SolarPower Europe",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "60",
+        "Date": "09-11-2022",
+        "Meeting With": "Thyssenkrupp",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "SSE",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "61",
+        "Date": "07-11-2022",
+        "Meeting With": "Smart Energy for Europe Platform (SEFEP) gGmbH",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "Smart",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "63",
+        "Date": "18-10-2022",
+        "Meeting With": "Head of Section for Agriculture, Fisheries and Environment, Mission of Canada to the EU",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "65",
+        "Date": "17-10-2022",
+        "Meeting With": "Grubenareal Landsweiler-Reden",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "67",
+        "Date": "14-10-2022",
+        "Meeting With": "POSCO",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "POSCO Co., Ltd",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "68",
+        "Date": "13-10-2022",
+        "Meeting With": "Gesenkschmiede Thyssenkrupp Gerlach",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "thyssenkrupp AG",
+        "Org Match Similarity": 93
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "69",
+        "Date": "11-10-2022",
+        "Meeting With": "Henkel AG",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "Henkel AG & Co. KGaA",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "73",
+        "Date": "08-09-2022",
+        "Meeting With": "Czech Permanent Representation",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": null,
+        "Org Match Similarity": null
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "77",
+        "Date": "15-06-2022",
+        "Meeting With": "CEO Salzgitter AG",
+        "Reason": "Carbon Border Adjustment Mechanism (CBAM)",
+        "Org Match": "Salzgitter AG",
+        "Org Match Similarity": 100
+    },
+    {
+        "MEP": "Manuela RIPA",
+        "Meeting ID": "94",
+        "Date": "25-01-2022",
+        "Meeting With": "German Steel Federation",
+        "Reason": "EU ETS, CBAM and REDIII",
+        "Org Match": null,
+        "Org Match Similarity": null
+    }
+]

@@ -1,0 +1,37 @@
+NO GREEN 
+Intermediate nodes: 
+C70 (international competitiveness) 
+C65 (industrial decarbonization)
+C61 (high energy costs) 
+C55 (green financing)
+C50	(global carbon emissions) 
+C44 (environmental regulations)
+C25 (EU CBAM)
+C12 (Climate policy)
+C8 	(Carbon borders)
+C11 (carbon pricing) 
+Output nodes: 
+C22 (digitalization) (0.6)
+
+ALL GREEN
+
+Intermediate nodes: 
+C71 - logistic opportunities
+C65 - industrial decarbonization
+C57 - green steel production
+C44 - environmental regulations
+C31 - EU lime industry
+C8 - industrial decarbonization
+
+Output nodes: C22 (0.8) 
+
+IDEAS 
+- run QA model again? so then can have longer causal chains (i guess better to run it without the original levers)
+- and get those from the first remapped one? 
+so then the chain could be x - DPP - digitalization ? 
+
+then for this one you could be decisive with trimming based on confidence level (look at it) 
+how can I make it so I have less concepts in my FCM map? where should i trim?
+
+** how to future proof for regulation, the key for green regulation is investing in digitalisation/traceability ** 
+- want to get this sort of result, how possible? 

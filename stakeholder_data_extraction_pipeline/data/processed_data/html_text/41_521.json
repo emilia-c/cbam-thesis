@@ -1,0 +1,11 @@
+{
+    "title": "Mouvement des Entreprises de France (MEDEF)",
+    "author": "unknown",
+    "source": "(C) Influencemap 2021",
+    "date": "2025-04-10",
+    "text": "The Engagement Intensity metric calculation was updated to correct for a previous overemphasis on older evidence. The changes mean that the new engagement intensities better reflect the level of entity activity in the last three years. This modification affects all entities and, therefore, does not impact the utility of the data set when comparing Engagement Intensity across entities. Scored evidence collected on an entity's engagement with land-use and circular economy policy will now be fully weighted into the final calculations for each entity's metrics. This follows a two year process where InfluenceMap has evolved its methodology to collect evidence on corporate and industry engagement with these key areas of climate-related policy. We have strengthened the algorithm for discounting the impact older evidence on an organization's top-line metrics. Evidence from within the last two years is weighted the strongest and then gradually weighted out of the scoring calculations as it gets older. All evidence that is 5 years or older is completely removed from the scoring calculations. Users will still be able to view older evidence items that are archived the scoring matrix below, but these will not be impacting the organization's current scores.",
+    "images": "https://lobbymap.org/site//data/001/361/1361674.png",
+    "tags": "data,analysis,climate,crisis",
+    "excerpt": "An independent think tank producing data-driven analysis on how business and finance are impacting the climate crisis",
+    "categories": ""
+}
