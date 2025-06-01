@@ -1,6 +1,6 @@
 ﻿# Master Thesis 2025
 
-This repository contains all the code and data related to the Master Thesis 2025.
+This repository contains all the code and data related to the Towards an Semi-Automated Scenario Analysis: Exploring Carbon Data Futures for the Carbon Border Adjustment Mechanism thesis. 
 
 ## Project Overview
 
