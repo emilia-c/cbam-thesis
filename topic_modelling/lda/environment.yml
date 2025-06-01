@@ -1,0 +1,24 @@
+name: lda-environment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9  # You can adjust this version based on your preference
+  - numpy
+  - pandas
+  - matplotlib
+  - pyLDAvis
+  - gensim
+  - spacy
+  - langdetect
+  - scikit-learn  # If needed for additional tools
+  - pip
+  - pip:
+      - pyLDAvis
+      - spacy
+      - langdetect
+      - bokeh
+      - nltk
+  - ipykernel  # If you're running Jupyter Notebooks
+  - jupyter  # Optional if you use notebooks
+  - ipython  # For interactive development
